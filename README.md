@@ -12,7 +12,7 @@ This project implements a single-node blockchain solution for conventional curre
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/blockchain-scala.git
+git clone https://github.com/ibonomo/blockchain-scala.git
 cd blockchain-scala
 ```
 
