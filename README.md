@@ -80,3 +80,5 @@ sbt test
   - 200 OK with the list of transactions
   - 404 Not Found if the block does not exist.
 
+## KeyManager
+The `KeyManager.scala` file is part of the `utils` package and is responsible for managing cryptographic keys. It includes functions for generating, saving, and loading keys. 
